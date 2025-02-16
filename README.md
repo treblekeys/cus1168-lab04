@@ -1,4 +1,4 @@
-# Lab 5: Building a Recursive Descent Parser
+# Lab 4: Building a Recursive Descent Parser
 
 ### Learning Objectives
 
